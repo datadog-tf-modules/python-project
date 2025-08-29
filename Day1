@@ -1,0 +1,6 @@
+print("welcome to python")
+
+city = input("what is your city: ")
+name = input("whats your pet name: ")
+
+print(f'you are from {city}\tand your pet name is {name}')
